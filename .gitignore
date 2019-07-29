@@ -1,3 +1,4 @@
 .idea
 .vagrant
 ubuntu*console.log
+./snmp-cmds
